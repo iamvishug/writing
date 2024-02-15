@@ -1,0 +1,9 @@
+1) Seismometer measuremnt 
+at bragg plateform
+Top of the baseline
+RB system
+ground
+baseline ground
+
+2) 2D MOT flux
+3) comparision TDMOT, molasses
